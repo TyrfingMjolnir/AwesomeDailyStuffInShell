@@ -3,18 +3,18 @@ Nice stuff to know in shell
 
 Search for the command interpreter for the parameter of `path_display` in local git clone of `telescope.nvim`
 ```Shell
-cd /opt/local/development/telescope.nvim
+cd /opt/local/dev/telescope.nvim
 ag --lua path_display
 ```
 
 ```Shell
-cd /opt/local/development/project
+cd /opt/local/dev/project
 ag --swift ViewController
 ag -G '\.storyboard$' 'viewController' .
 ```
 
 ```Shell
-cd /opt/local/development/project
+cd /opt/local/dev/project
 ag --xml destination
 ```
 
