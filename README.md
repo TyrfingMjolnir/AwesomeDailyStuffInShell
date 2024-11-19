@@ -18,7 +18,7 @@ cd /opt/local/dev/project
 ag --xml destination
 ```
 
-The SilverSearcher list its predefined filestypes
+The SilverSearcher list its pre-defined filetypes
 ```Shell
 $ ag --list-file-types
 The following file types are supported:
