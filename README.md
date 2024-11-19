@@ -1,6 +1,12 @@
 # AwesomeDailyStuffInShell
 Nice stuff to know in shell
 
+Search for the command interpreter for the parameter of `path_display` in local git clone of `telescope.nvim`
+```Shell
+cd /opt/local/development/telescope.nvim
+ag --lua path_display
+```
+
 The SilverSearcher list its predefined filestypes
 ```Shell
 $ ag --list-file-types
@@ -385,9 +391,4 @@ The following file types are supported:
 
   --yaml
       .yaml  .yml
-```
-Search for the command interpreter for the parameter of `path_display` in local git clone of `telescope.nvim`
-```Shell
-cd /opt/local/development/telescope.nvim
-ag --lua path_display
 ```
