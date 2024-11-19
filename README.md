@@ -7,6 +7,16 @@ cd /opt/local/development/telescope.nvim
 ag --lua path_display
 ```
 
+```Shell
+cd /opt/local/development/project
+ag --swift ViewController
+```
+
+```Shell
+cd /opt/local/development/project
+ag --xml destination
+```
+
 The SilverSearcher list its predefined filestypes
 ```Shell
 $ ag --list-file-types
