@@ -10,6 +10,7 @@ ag --lua path_display
 ```Shell
 cd /opt/local/development/project
 ag --swift ViewController
+ag -G '\.storyboard$' 'viewController' .
 ```
 
 ```Shell
