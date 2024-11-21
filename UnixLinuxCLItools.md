@@ -5,3 +5,4 @@
 * http://xmlsoft.org/xslt/xsltproc.html
 * https://github.com/jqlang/jq
 * https://github.com/tmux/tmux/wiki
+* https://github.com/ggreer/the_silver_searcher
