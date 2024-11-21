@@ -14,6 +14,6 @@
 | Port piper                           | https://github.com/curl/curl                     |                                                           |
  
 # While watching paint dry
-| Purpose    | Link                                 | Comment |
-| ---        | ---                                  | ---     |
-| Port piper | https://github.com/aristocratos/btop |         |
+| Purpose                                      | Link                                 | Comment |
+| ---                                          | ---                                  | ---     |
+| Resources spent in the present moment of now | https://github.com/aristocratos/btop |         |
