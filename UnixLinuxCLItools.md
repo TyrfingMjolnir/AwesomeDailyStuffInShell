@@ -1,17 +1,17 @@
 # Daily bread and gasoline
-| Purpose                              | Name         | Link                                               | Comment                                                   |   |
-| ---                                  | ---          | ---                                                | ---                                                       |   |
-| Favorite text synthesizer            | [neo]vi[m]   | https://github.com/neovim/neovim                   | remember neovim also has a text editor named insert mode. |   |
-| Fuzzy file content search for neovim | Telescope    | https://github.com/nvim-telescope/telescope.nvim   |                                                           |   |
-| Versioning control                   | git          | https://github.com/git/git                         |                                                           |   |
-| XML parser                           | xsltproc     | http://xmlsoft.org/xslt/xsltproc.html              |                                                           |   |
-| JSON parser                          | jq           | https://github.com/jqlang/jq                       |                                                           |   |
-| Terminal multiplexer                 | tmux         | https://github.com/tmux/tmux/wiki                  |                                                           |   |
-| Search file content                  | ag           | https://github.com/ggreer/the_silver_searcher      |                                                           |   |
-| Web server                           | Apache/httpd | https://github.com/apache/httpd                    |                                                           |   |
-| Reverse proxy                        | nginx        | https://github.com/nginx/nginx                     |                                                           |   |
-| Port piper                           | cURL         | https://github.com/curl/curl                       |                                                           |   |
-| Meta data extractor                  | exiftool     | https://exiftool.org/                              | Mainly for photo formats, however also know its id3 tags  |   |
+| Purpose                              | Name         | Link                                               | Comment                                                   |
+| ---                                  | ---          | ---                                                | ---                                                       |
+| Favorite text synthesizer            | [neo]vi[m]   | https://github.com/neovim/neovim                   | remember neovim also has a text editor named insert mode. |
+| Fuzzy file content search for neovim | Telescope    | https://github.com/nvim-telescope/telescope.nvim   |                                                           |
+| Versioning control                   | git          | https://github.com/git/git                         |                                                           |
+| XML parser                           | xsltproc     | http://xmlsoft.org/xslt/xsltproc.html              |                                                           |
+| JSON parser                          | jq           | https://github.com/jqlang/jq                       |                                                           |
+| Terminal multiplexer                 | tmux         | https://github.com/tmux/tmux/wiki                  |                                                           |
+| Search file content                  | ag           | https://github.com/ggreer/the_silver_searcher      |                                                           |
+| Web server                           | Apache/httpd | https://github.com/apache/httpd                    |                                                           |
+| Reverse proxy                        | nginx        | https://github.com/nginx/nginx                     |                                                           |
+| Port piper                           | cURL         | https://github.com/curl/curl                       |                                                           |
+| Meta data extractor                  | exiftool     | https://exiftool.org/                              | Mainly for photo formats, however also know its id3 tags  |
 
 # While watching paint dry
 | Purpose                                      | Name | Link                                 | Comment |   |
