@@ -14,9 +14,9 @@
 | Meta data extractor                  | exiftool     | https://exiftool.org/                              | Mainly for photo formats, however also know its id3 tags  |
 
 # While watching paint dry
-| Purpose                                      | Name | Link                                 | Comment |   |
-| ---                                          | ---  | ---                                  | ---     |   |
-| Resources spent in the present moment of now | btop | https://github.com/aristocratos/btop |         |   |
+| Purpose                                      | Name | Link                                 | Comment |
+| ---                                          | ---  | ---                                  | ---     |
+| Resources spent in the present moment of now | btop | https://github.com/aristocratos/btop |         |
 
 # Frameworks / services
 | Purpose                | Name       | Link                                               | Comment                    |
