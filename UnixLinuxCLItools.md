@@ -24,5 +24,5 @@
 | Server side swift      | Vapor      | https://vapor.codes/                               | CRUUx                      |
 | Make thing client TUI  | RataTUI    | https://github.com/ratatui/ratatui/                | No more NCurses            |
 | Datastore              | PostgreSQL | https://github.com/postgres/postgres               |                            |
-| Editorial tool         | FileMaker  | https://claris.com/Filemaker                       |                            |
+| Editorial tool         | FileMaker  | https://claris.com/filemaker                       |                            |
 | iOS specific datastore | CoreData   | https://developer.apple.com/documentation/coredata | This is SQLite with an ORM |
