@@ -27,3 +27,12 @@
 | Datastore              | PostgreSQL | https://github.com/postgres/postgres               |                            |
 | Editorial tool         | FileMaker  | https://claris.com/filemaker                       |                            |
 | iOS specific datastore | CoreData   | https://developer.apple.com/documentation/coredata | This is SQLite with an ORM |
+
+# Languages / Toolchains
+| Purpose                                 | Name  | Link                                      | Comment                                                                                                       |
+| ---                                     | ---   | ---                                       | ---                                                                                                           |
+| Build industrial grade stuff            | Swift | https://www.swift.org/                    | Amazon Linux, Debian, Fedora, RHEL and Ubuntu are the supported distros. And to some extent their derivatives |
+| Build industrial grade stuff            | Rust  | https://www.rust-lang.org/                | Amazon Linux, Debian, Fedora, RHEL and Ubuntu are the supported distros. And to some extent their derivatives |
+| Portable array for UI                   | JSON  | https://json.org/                         | This format has no clue what is transported and has to be validated at both ends                              |
+| Portable array for document interchange | XML   | https://www.w3.org/TR/?filter-tr-name=xml | This format can validate its content                                                                          |
+
