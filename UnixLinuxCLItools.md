@@ -1,5 +1,5 @@
 # Daily bread and gasoline
-| Purpose                              | link                                             | comment                                                   |
+| Purpose                              | Link                                             | Comment                                                   |
 | ---                                  | ---                                              | ---                                                       |
 | Favorite text synthesizer            | https://github.com/neovim/neovim                 | remember neovim also has a text editor named insert mode. |
 | Fuzzy file content search for neovim | https://github.com/nvim-telescope/telescope.nvim |                                                           |
