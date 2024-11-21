@@ -19,7 +19,7 @@
 
 # Frameworks / services
 | Purpose                | Name       | Link                                               | Comment                    |
-| ---                    |            | ---                                                | ---                        |
+| ---                    | ---        | ---                                                | ---                        |
 | accounts.domain.tld    | Keycloak   | https://www.keycloak.org/                          |                            |
 | Server side swift      | Vapor      | https://vapor.codes/                               | CRUUx                      |
 | Make thing client TUI  | RataTUI    | https://github.com/ratatui/ratatui/                | No more NCurses            |
