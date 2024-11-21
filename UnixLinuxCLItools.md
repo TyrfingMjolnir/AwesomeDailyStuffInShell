@@ -21,6 +21,7 @@
 | Purpose                | Name       | Link                                               | Comment                    |
 | ---                    | ---        | ---                                                | ---                        |
 | accounts.domain.tld    | Keycloak   | https://www.keycloak.org/                          |                            |
+| SPA                    | HTMx       | https://htmx.org/                                  |                            |
 | Server side swift      | Vapor      | https://vapor.codes/                               | CRUUx                      |
 | Make thing client TUI  | RataTUI    | https://github.com/ratatui/ratatui/                | No more NCurses            |
 | Datastore              | PostgreSQL | https://github.com/postgres/postgres               |                            |
